@@ -891,7 +891,8 @@
 																	<tbody>
 																		<tr>
 																			<td valign="top" class="mcnTextContent" style="padding-right: 18px;padding-top: 18px;padding-bottom: 18px;color: #F2F2F2;font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size: 13px;font-weight: normal;text-align: center;">
-																				<div style="text-align: right;"><u><a href="https://ngrperformance.com/" target="_blank">View online version</a></u></div>
+																				<div style="text-align: right;"><u><a href="https://ngrperformance.com/" target="_blank">View online
+																							version</a></u></div>
 
 																			</td>
 																		</tr>
@@ -918,7 +919,10 @@
 
 															<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;color: #FFFFFF;font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size: 16px;line-height: 150%;text-align: center;">
 
-																<a href="https://ngrperformance.com/" target="_blank" style="text-decoration: none; margin-right: 30px; ">HOME</a> <a href="https://ngrperformance.com/my-account/" target="_blank" style="text-decoration: none; margin-right: 30px; ">REWARDS</a> <a href="https://ngrperformance.com/product-categories/" target="_blank" style="text-decoration: none; margin-right: 30px; ">SHOP NGR</a> <a href="https://ngrperformance.com/blog/" target="_blank" style="text-decoration: none; ">NEWS</a>
+																<a href="https://ngrperformance.com/" target="_blank" style="text-decoration: none; margin-right: 30px; ">HOME</a>
+																<a href="https://ngrperformance.com/my-account/" target="_blank" style="text-decoration: none; margin-right: 30px; ">REWARDS</a>
+																<a href="https://ngrperformance.com/product-categories/" target="_blank" style="text-decoration: none; margin-right: 30px; ">SHOP
+																	NGR</a> <a href="https://ngrperformance.com/blog/" target="_blank" style="text-decoration: none; ">NEWS</a>
 															</td>
 														</tr>
 													</tbody>
@@ -963,10 +967,14 @@
 														<td height="30"></td>
 													</tr>
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="heroHeader" class="headlineCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; exactly; color: #191919; font-size: 28px; line-height: 90%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: bold;">Thanks, <?php echo $order->get_billing_first_name() ?>!</td>
+														<td e-editable="heroHeader" class="headlineCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; exactly; color: #191919; font-size: 28px; line-height: 90%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: bold;">
+															Thanks, <?php echo $order->get_billing_first_name() ?>!</td>
 													</tr>
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;"><br> Your order has been completed.You can track your order.Please click belowe "check order status" button. waiting?
+														<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;">
+															<br> We'll let you know when your NGR gear is on the way!
+															You can now track your order below. Why not add us on IG
+															while you're waiting?
 														</td>
 													</tr>
 													<tr>
@@ -974,7 +982,8 @@
 													</tr>
 													<table width="100%" border="0" cellspacing="0" cellpadding="0" e-block-id="5e4dd723cd6dd66773000003" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr style="-webkit-text-size-adjust: none;">
-															<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+															<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+																&nbsp;</td>
 															<td align="center" width="600" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; padding: 0 0 0 0;">
 																<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 																	<tr style="-webkit-text-size-adjust: none;">
@@ -986,22 +995,23 @@
 																	</tr>
 																</table>
 															</td>
-															<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+															<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+																&nbsp;</td>
 														</tr>
 													</table>
 													<table align="center" width="100%">
 														<tr>
 															<td align="center">
-																<h2 style="color:#C2AB32;text-align:center">FOLLOW US</h2>
-															</td>
-														</tr>
-														<tr>
-															<td align="center">
+																<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
+																	FOLLOW US</h2>
+																<br>
 																<a href="https://www.instagram.com/ngrperformance/" style="text-decoration:none">
-																	<h2 style="color:#C2AB32;text-align:center">@NGRPERFORMANCE</h2>
+																	<h2 style="color:black;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
+																		@NGRPERFORMANCE</h2>
 																</a>
 															</td>
 														</tr>
+
 													</table>
 
 											</td>
@@ -1049,7 +1059,8 @@
 												?>
 												<table width="100%" border="0" cellspacing="0" cellpadding="0" e-block-id="5bef5d3a191110957b000005" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 													<tr style="-webkit-text-size-adjust: none;">
-														<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+														<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+															&nbsp;</td>
 														<td align="center" width="600" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; padding: 0 0 0 0; background-color: #FFFFFF;" bgcolor="#FFFFFF">
 															<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 																<tr style="-webkit-text-size-adjust: none;">
@@ -1057,7 +1068,8 @@
 																		<table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 																			<tr style="-webkit-text-size-adjust: none;">
 																				<td e-editable="heroButton" align="center" bgcolor="#cc092f" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #ffffff; font-size: 14px; line-height: 100%; padding: 12px 10px 12px 10px; text-transform: uppercase; vertical-align: middle; letter-spacing: 1px;" valign="middle">
-																					<a e-editable="heroLink" href="<?php echo $tracking_url ?>" style="-webkit-text-size-adjust: none; color: #ffffff; text-decoration: none; padding: 12px 30px 12px 30px; outline: none;" target="_blank" e-block-id="5bef5d3a191110957b000005" rel="noopener"><strong style="-webkit-text-size-adjust: none;">CHECK ORDER STATUS</strong>
+																					<a e-editable="heroLink" href="<?php echo $tracking_url ?>" style="-webkit-text-size-adjust: none; color: #ffffff; text-decoration: none; padding: 12px 30px 12px 30px; outline: none;" target="_blank" e-block-id="5bef5d3a191110957b000005" rel="noopener"><strong style="-webkit-text-size-adjust: none;">CHECK
+																							ORDER STATUS</strong>
 																					</a>
 																				</td>
 																			</tr>
@@ -1066,7 +1078,8 @@
 																</tr>
 															</table>
 														</td>
-														<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+														<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+															&nbsp;</td>
 													</tr>
 												</table>
 
@@ -1097,7 +1110,6 @@
 									<tbody class="mcnTextBlockOuter">
 										<tr>
 											<td valign="top" class="mcnTextBlockInner" style="padding-top:9px;">
-
 												<table cellpadding="0" cellspacing="0" border="0" role="presentation" align="center" style="width: 80%; max-width: 480px;">
 													<tr>
 														<td align="left" style="font-weight: bold; padding-top: 35px; padding-bottom: 10px; font-size:28px; line-height:36px; color:#141414; font-family: AudibleSansLt, Arial, sans-serif;">
@@ -1109,11 +1121,13 @@
 												</table>
 												<table cellpadding="0" cellspacing="0" border="0" bgcolor="#D8D8D8" style="width: 92%; max-width: 550px;">
 													<tr>
-														<td style="line-height:1px; font-size:1px; mso-line-height-rule:exactly;">&nbsp;</td>
+														<td style="line-height:1px; font-size:1px; mso-line-height-rule:exactly;">
+															&nbsp;</td>
 													</tr>
 												</table>
 
-												<div style="font-size:1px;line-height:30px;mso-line-height-rule:exactly;">&nbsp;</div>
+												<div style="font-size:1px;line-height:30px;mso-line-height-rule:exactly;">
+													&nbsp;</div>
 
 												<?php
 
@@ -1167,54 +1181,89 @@
 															</th>
 														</tr>
 													</table>
-													<div style="font-size:1px;line-height:30px;mso-line-height-rule:exactly;">&nbsp;</div>
+													<div style="font-size:1px;line-height:30px;mso-line-height-rule:exactly;">
+														&nbsp;</div>
 													<table cellpadding="0" cellspacing="0" border="0" bgcolor="#D8D8D8" style="width: 92%; max-width: 550px;">
 														<tr>
-															<td style="line-height:1px; font-size:1px; mso-line-height-rule:exactly;">&nbsp;</td>
+															<td style="line-height:1px; font-size:1px; mso-line-height-rule:exactly;">
+																&nbsp;</td>
 														</tr>
 													</table>
 												<?php
 												} ?>
 												<!-- END BOOK ROW -->
-
-										<tr style="-webkit-text-size-adjust: none;">
-											<td e-editable="orderInfo1" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">Order #: <?php
-																																																																																																							echo $order->id ?></td>
+										<tr>
+											<td height="30"></td>
 										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
-											<td e-editable="orderInfo2" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; padding: 2px 0 2px 0; font-weight: 400;">Order Date: <?php
-																																																																																																echo $order->order_date; ?></td>
+											<td e-editable="orderInfo1" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">
+												Order #:
+												<?php
+												echo $order->id ?></td>
 										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
-											<td e-editable="orderInfo4" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; padding: 2px 0 2px 0; font-weight: 400;">Shipping Method: <?php echo $order->get_shipping_method() ?></td>
+											<td e-editable="orderInfo2" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; padding: 2px 0 2px 0; font-weight: 400;">
+												Order Date:
+												<?php
+												echo $order->order_date; ?></td>
+										</tr>
+										<tr style="-webkit-text-size-adjust: none;">
+											<td e-editable="orderInfo4" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; padding: 2px 0 2px 0; font-weight: 400;">
+												Shipping Method: <?php echo $order->get_shipping_method() ?></td>
 										</tr>
 										<tr>
 											<td height="30"></td>
 										</tr>
 
 										<tr style="-webkit-text-size-adjust: none;">
-											<td e-editable="shippingInfo1" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">Shipping Address</td>
+											<td e-editable="shippingInfo1" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">
+												Shipping Address</td>
 										</tr>
-										<tr style="-webkit-text-size-adjust: none;">
+										<tr>
 											<td e-editable="shippingInfo2" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; padding: 2px 0 2px 0; font-weight: 400;">
-												<address class="address" style="color: #393939">
-													<?php echo $order->get_formatted_shipping_address() ?>
-												</address>
+
+												<?php echo $order->get_formatted_shipping_address() ?>
+
 											</td>
 										</tr>
 
+										<tr>
+											<td height="30"></td>
+										</tr>
 
-
-
+										<tr>
+											<td>
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width:100%;">
+													<tbody class="mcnDividerBlockOuter">
+														<tr>
+															<td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+																<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #EAEAEA;">
+																	<tbody>
+																		<tr>
+																			<td>
+																				<span></span>
+																			</td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
-											<td e-editable="orderSummary1" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">Order Summary</td>
+											<td e-editable="orderSummary1" align="center" style="-webkit-text-size-adjust: none;font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">
+												Order Summary</td>
 										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
 											<td e-editable="orderSummary2" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
 												<table border="0" cellpadding="0" cellspacing="0" width="300" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary3" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">Subtotal</td>
-														<td e-editable="orderSummary4" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;"><?php echo $order->get_subtotal_to_display() ?></td>
+														<td e-editable="orderSummary3" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															Subtotal</td>
+														<td e-editable="orderSummary4" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															<?php echo $order->get_subtotal_to_display() ?></td>
 													</tr>
 												</table>
 											</td>
@@ -1233,8 +1282,10 @@
 											<td e-editable="orderSummary5" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
 												<table border="0" cellpadding="0" cellspacing="0" width="300" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary6" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">Shipping</td>
-														<td e-editable="orderSummary7" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">$0.00</td>
+														<td e-editable="orderSummary6" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															Shipping</td>
+														<td e-editable="orderSummary7" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															$0.00</td>
 													</tr>
 												</table>
 											</td>
@@ -1243,8 +1294,10 @@
 											<td e-editable="orderSummary11" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
 												<table border="0" cellpadding="0" cellspacing="0" width="300" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary12" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">Tax</td>
-														<td e-editable="orderSummary13" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;"><?php echo $order->get_cart_tax() ?></td>
+														<td e-editable="orderSummary12" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															Tax</td>
+														<td e-editable="orderSummary13" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															<?php echo $order->get_cart_tax() ?></td>
 													</tr>
 												</table>
 											</td>
@@ -1253,26 +1306,33 @@
 											<td e-editable="orderSummary14" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 20px 0; font-weight: 400;">
 												<table border="0" cellpadding="0" cellspacing="0" width="300" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary15" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 600;">Total</td>
-														<td e-editable="orderSummary16" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 600;">$<?php echo $order->get_total() ?></td>
+														<td e-editable="orderSummary15" align="left" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 600;">
+															Total</td>
+														<td e-editable="orderSummary16" align="right" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 600;">
+															$<?php echo $order->get_total() ?></td>
 													</tr>
 												</table>
 											</td>
 										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
-											<td e-editable="orderSummary101" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 20px 0 2px 0; font-weight: 700;">Payment Details</td>
+											<td e-editable="orderSummary101" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 20px 0 2px 0; font-weight: 700;">
+												Payment Details</td>
 										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
 											<td e-editable="orderSummary2" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 20px 0; font-weight: 400;">
 												<table border="0" cellpadding="0" cellspacing="0" width="300" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary3" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">Payment Method: <?php echo $order->get_payment_method_title() ?></td>
+														<td e-editable="orderSummary3" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															Payment Method:
+															<?php echo $order->get_payment_method_title() ?></td>
 													</tr>
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary3" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">Amount: $<?php echo $order->get_total() ?></td>
+														<td e-editable="orderSummary3" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+															Amount: $<?php echo $order->get_total() ?></td>
 													</tr>
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="orderSummary3" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;"></td>
+														<td e-editable="orderSummary3" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; text-transform: uppercase; padding: 2px 0 2px 0; font-weight: 400;">
+														</td>
 													</tr>
 												</table>
 
@@ -1280,29 +1340,35 @@
 										</tr>
 										<table width="100%" border="0" cellspacing="0" cellpadding="0" e-block-id="5e4dd855bb7cf12a0d000002" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 											<tr style="-webkit-text-size-adjust: none;">
-												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+													&nbsp;</td>
 												<td align="center" width="600" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; padding: 0 0 0 0; background-color: #FFFFFF;" bgcolor="#FFFFFF">
 													<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr style="-webkit-text-size-adjust: none;">
-															<td e-editable="heroSubHeader" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 22px; line-height: 120%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: 700;">NEED HELP? HIT US UP.</td>
+															<td e-editable="heroSubHeader" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 22px; line-height: 120%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: 700;">
+																NEED HELP? HIT US UP.</td>
 														</tr>
 													</table>
 												</td>
-												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+													&nbsp;</td>
 											</tr>
 										</table>
 										<table width="100%" border="0" cellspacing="0" cellpadding="0" e-block-id="5e4dd877bb7cf12a0d000004" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 											<tr style="-webkit-text-size-adjust: none;">
-												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+													&nbsp;</td>
 												<td align="center" width="600" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; padding: 0 0 0 0; background-color: #FFFFFF;" bgcolor="#FFFFFF">
 													<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr style="-webkit-text-size-adjust: none;">
-															<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;"><span style="-webkit-text-size-adjust: none; font-size: 16px;">sales@ngrperformance.com</span>
+															<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;">
+																<span style="-webkit-text-size-adjust: none; font-size: 16px;">sales@ngrperformance.com</span>
 															</td>
 														</tr>
 													</table>
 												</td>
-												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">&nbsp;</td>
+												<td style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; font-size: 0px;">
+													&nbsp;</td>
 											</tr>
 										</table>
 
@@ -1312,13 +1378,14 @@
 											</tr>
 											<tr>
 												<td align="center">
-													<h2 style="color:#C2AB32;text-align:center">Share your Beast!</h2>
+													<h2 style="color:#C2AB32;text-align:center">SHARE YOUR BEAST!</h2>
 												</td>
 											</tr>
 											<tr>
 												<td align="center">
 													<a href="https://www.instagram.com/ngrperformance/" style="text-decoration:none">
-														<h2 style="color:white;text-align:center;background-color:black;padding:10px;width:200px">#ngrperformance</h2>
+														<h2 style="color:white;text-align:center;background-color:black;padding:10px;width:230px">
+															#NGRPERFORMANCE</h2>
 													</a>
 												</td>
 											</tr>
@@ -1552,16 +1619,42 @@
 																									</tbody>
 																								</table>
 																					<tbody>
-																						<table>
+																						<table align="center" width="100%">
+																							<tr>
+																								<td height="30"></td>
+																							</tr>
+																							<tr>
+																								<td align="center">
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
+																										FREE SHIPPING
+																									</h2>
 
-																							<tr style="-webkit-text-size-adjust: none;">
-																								<td align="center" valign="top" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly;">&nbsp;
-																									<a href="https://www.chromeindustries.com/help/?utm_source=emarsys&utm_medium=email&utm_campaign=RTM_Transactional_Order_Confirmation&utm_content=IMAGE+Email_Footer_FreeShip.png&ditr_id=6979a3a2d042678f9e4c345bc3004792a321409d5421168d556491c15397370b&sc_src=email1984&sc_lid=42280409&sc_uid=5ylfG3qDfG&sc_llid=47633&sc_eh=2ede5b720f856b191&sc_customer=6979a3a2d042678f9e4c345bc3004792a321409d5421168d556491c15397370b&sc_src=email_1984&$addcamptrackin" style="-webkit-text-size-adjust: none;" target="_blank">
-																										<img src="https://fg-email.s3-us-west-2.amazonaws.com/US/CHROME/Evergreen+Assets/Email_Footer_FreeShip.png" alt="Free US Shipping over $100 + Free US Returns" width="400" border="0" style="-webkit-text-size-adjust: none; display: block; " class="scaleImg">
-																									</a>
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:25px;">
+																										on orders over
+																										$99</h2>
 																								</td>
 																							</tr>
 
+																							<tr>
+																								<td height="30"></td>
+																							</tr>
+																						</table>
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width:100%;">
+																							<tbody class="mcnDividerBlockOuter">
+																								<tr>
+																									<td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+																										<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #EAEAEA;">
+																											<tbody>
+																												<tr>
+																													<td>
+																														<span></span>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
 																						</table>
 																					</tbody>
 
@@ -1578,8 +1671,12 @@
 
 																			<td valign="top" class="mcnTextContent" style="padding-top:10; padding-right:18px; padding-bottom:0px; padding-left:18px;">
 
-																				<div style="text-align: center;"><span style="color:#A9A9A9"><em>Copyright © *|2021|* *|LIST:ngrperformance|*, All rights reserved.</em><br>
-																					</span></div>
+																				<div style="text-align: center;font-size: 20px;">
+																					<span style="color:#A9A9A9"><em>Copyright
+																							Ⓒ 2021 NGR performance, All
+																							rights reserved.</em><br>
+																					</span>
+																				</div>
 
 																			</td>
 																		</tr>

@@ -966,7 +966,7 @@
 														<td e-editable="heroHeader" class="headlineCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; exactly; color: #191919; font-size: 28px; line-height: 90%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: bold;">Oooops!, <?php echo $order->get_billing_first_name() ?>!</td>
 													</tr>
 													<tr style="-webkit-text-size-adjust: none;">
-														<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;"><br> Your order has been Failed.Order details are listed below.
+														<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;"><br> Unfortunately, your order has failed. Order details are listed below. Feel free to contact us with any questions so that we may expedite the order as quickly as possible!
 														</td>
 													</tr>
 													<tr>
@@ -992,13 +992,13 @@
 													<table align="center" width="100%">
 														<tr>
 															<td align="center">
-																<h2 style="color:#C2AB32;text-align:center">FOLLOW US</h2>
+																<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:50px;font-size:25px;">FOLLOW US</h2>
 															</td>
 														</tr>
 														<tr>
 															<td align="center">
 																<a href="https://www.instagram.com/ngrperformance/" style="text-decoration:none">
-																	<h2 style="color:#C2AB32;text-align:center">@NGRPERFORMANCE</h2>
+																	<h2 style="color:black;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:50px;font-size:25px;">@NGRPERFORMANCE</h2>
 																</a>
 															</td>
 														</tr>
@@ -1163,7 +1163,9 @@
 												<?php
 												} ?>
 												<!-- END BOOK ROW -->
-
+										<tr>
+											<td height="30"></td>
+										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
 											<td e-editable="orderInfo1" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 14px; line-height: 120%; text-transform: uppercase; padding: 12px 0 2px 0; font-weight: 700;">Order #: <?php
 																																																																																																							echo $order->id ?></td>
@@ -1184,13 +1186,37 @@
 										</tr>
 										<tr style="-webkit-text-size-adjust: none;">
 											<td e-editable="shippingInfo2" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #000000; font-size: 12px; line-height: 120%; padding: 2px 0 2px 0; font-weight: 400;">
-												<address class="address" style="color: #393939">
-													<?php echo $order->get_formatted_shipping_address() ?>
-												</address>
+
+												<?php echo $order->get_formatted_shipping_address() ?>
+
 											</td>
 										</tr>
 
+										<tr>
+											<td height="30"></td>
+										</tr>
 
+										<tr>
+											<td>
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width:100%;">
+													<tbody class="mcnDividerBlockOuter">
+														<tr>
+															<td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+																<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #EAEAEA;">
+																	<tbody>
+																		<tr>
+																			<td>
+																				<span></span>
+																			</td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
 
 
 										<tr style="-webkit-text-size-adjust: none;">
@@ -1298,13 +1324,13 @@
 											</tr>
 											<tr>
 												<td align="center">
-													<h2 style="color:#C2AB32;text-align:center">Share your Beast!</h2>
+													<h2 style="color:#C2AB32;text-align:center">SHARE YOUR BEAST!</h2>
 												</td>
 											</tr>
 											<tr>
 												<td align="center">
 													<a href="https://www.instagram.com/ngrperformance/" style="text-decoration:none">
-														<h2 style="color:white;text-align:center;background-color:black;padding:10px;width:200px">#ngrperformance</h2>
+														<h2 style="color:white;text-align:center;background-color:black;padding:10px;width:230px">#NGRPERFORMANCE</h2>
 													</a>
 												</td>
 											</tr>
@@ -1538,16 +1564,42 @@
 																									</tbody>
 																								</table>
 																					<tbody>
-																						<table>
+																						<table align="center" width="100%">
+																							<tr>
+																								<td height="30"></td>
+																							</tr>
+																							<tr>
+																								<td align="center">
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
+																										FREE SHIPPING
+																									</h2>
 
-																							<tr style="-webkit-text-size-adjust: none;">
-																								<td align="center" valign="top" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly;">&nbsp;
-																									<a href="https://www.chromeindustries.com/help/?utm_source=emarsys&utm_medium=email&utm_campaign=RTM_Transactional_Order_Confirmation&utm_content=IMAGE+Email_Footer_FreeShip.png&ditr_id=6979a3a2d042678f9e4c345bc3004792a321409d5421168d556491c15397370b&sc_src=email1984&sc_lid=42280409&sc_uid=5ylfG3qDfG&sc_llid=47633&sc_eh=2ede5b720f856b191&sc_customer=6979a3a2d042678f9e4c345bc3004792a321409d5421168d556491c15397370b&sc_src=email_1984&$addcamptrackin" style="-webkit-text-size-adjust: none;" target="_blank">
-																										<img src="https://fg-email.s3-us-west-2.amazonaws.com/US/CHROME/Evergreen+Assets/Email_Footer_FreeShip.png" alt="Free US Shipping over $100 + Free US Returns" width="400" border="0" style="-webkit-text-size-adjust: none; display: block; " class="scaleImg">
-																									</a>
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:25px;">
+																										on orders over
+																										$99</h2>
 																								</td>
 																							</tr>
 
+																							<tr>
+																								<td height="30"></td>
+																							</tr>
+																						</table>
+																						<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width:100%;">
+																							<tbody class="mcnDividerBlockOuter">
+																								<tr>
+																									<td class="mcnDividerBlockInner" style="min-width:100%; padding:18px;">
+																										<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #EAEAEA;">
+																											<tbody>
+																												<tr>
+																													<td>
+																														<span></span>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
 																						</table>
 																					</tbody>
 
@@ -1563,8 +1615,12 @@
 
 																			<td valign="top" class="mcnTextContent" style="padding-top:10; padding-right:18px; padding-bottom:0px; padding-left:18px;">
 
-																				<div style="text-align: center;"><span style="color:#A9A9A9"><em>Copyright © *|2021|* *|LIST:ngrperformance|*, All rights reserved.</em>
-																					</span></div>
+																				<div style="text-align: center;font-size: 20px;">
+																					<span style="color:#A9A9A9"><em>Copyright
+																							Ⓒ 2021 NGR performance, All
+																							rights reserved.</em><br>
+																					</span>
+																				</div>
 
 																			</td>
 																		</tr>
