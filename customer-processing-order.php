@@ -918,7 +918,7 @@
 
 															<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;color: #FFFFFF;font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size: 16px;line-height: 150%;text-align: center;">
 
-																<a href="https://ngrperformance.com/" target="_blank" style="text-decoration: none; margin-right: 30px; ">HOME</a> <a href="https://ngrperformance.com/my-account/" target="_blank" style="text-decoration: none; margin-right: 30px; ">REWARDS</a> <a href="https://ngrperformance.com/product-categories/" target="_blank" style="text-decoration: none; margin-right: 30px; ">SHOP NGR</a> <a href="https://ngrperformance.com/blog/" target="_blank" style="text-decoration: none; ">NEWS</a>
+																<a href="https://ngrperformance.com/" target="_blank" style="text-decoration: none; margin-right: 30px; ">HOME</a> <a href="https://ngrperformance.com/my-account/" target="_blank" style="text-decoration: none; margin-right: 30px; ">REWARDS</a> <a href="https://ngrperformance.com/product-categories/" target="_blank" style="text-decoration: none; margin-right: 30px; ">SHOP NGR</a> <a href="https://ngrperformance.com/blog-sales/" target="_blank" style="text-decoration: none; ">NEWS</a>
 															</td>
 														</tr>
 													</tbody>
@@ -967,7 +967,7 @@
 													</tr>
 													<tr style="-webkit-text-size-adjust: none;">
 														<td e-editable="bodyCopy" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 18px; line-height: 160%; padding: 5px 20px 5px 20px; font-weight: 300;"><br>
-															Your order is being processed! We'll let you know when your NGR gear is on the way. Why not add us on IG while you're waiting?
+														Your order is being processed! We'll let you know when your NGR gear is on the way! Why not add us on IG while you're waiting?
 														</td>
 													</tr>
 													<tr>
@@ -993,13 +993,13 @@
 													<table align="center" width="100%">
 														<tr>
 															<td align="center">
-																<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:50px;font-size:25px;">FOLLOW US</h2>
+																<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:25px;font-size:25px;">FOLLOW US</h2>
 															</td>
 														</tr>
 														<tr>
 															<td align="center">
 																<a href="https://www.instagram.com/ngrperformance/" style="text-decoration:none">
-																	<h2 style="color:black;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:50px;font-size:25px;">@NGRPERFORMANCE</h2>
+																	<h2 style="color:black;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:25px;font-size:25px;">@NGRPERFORMANCE</h2>
 																</a>
 															</td>
 														</tr>
@@ -1298,7 +1298,7 @@
 												<td align="center" width="600" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; padding: 0 0 0 0; background-color: #FFFFFF;" bgcolor="#FFFFFF">
 													<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: none; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr style="-webkit-text-size-adjust: none;">
-															<td e-editable="heroSubHeader" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 22px; line-height: 120%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: 700;">NEED HELP? HIT US UP.</td>
+															<td e-editable="heroSubHeader" align="center" style="-webkit-text-size-adjust: none; font-family: 'Open Sans', Helvetica, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; mso-line-height-rule: exactly; color: #191919; font-size: 22px; line-height: 50%; padding: 5px 20px 5px 20px; text-transform: uppercase; font-weight: 700;">NEED HELP? HIT US UP.</td>
 														</tr>
 													</table>
 												</td>
@@ -1570,11 +1570,11 @@
 																							</tr>
 																							<tr>
 																								<td align="center">
-																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
+																									<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
 																										FREE SHIPPING
 																									</h2>
 
-																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:25px;">
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:20px;">
 																										on orders over
 																										$99</h2>
 																								</td>

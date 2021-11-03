@@ -918,7 +918,7 @@
 
 															<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;color: #FFFFFF;font-family: &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size: 16px;line-height: 150%;text-align: center;">
 
-																<a href="https://ngrperformance.com/" target="_blank" style="text-decoration: none; margin-right: 30px; ">HOME</a> <a href="https://ngrperformance.com/my-account/" target="_blank" style="text-decoration: none; margin-right: 30px; ">REWARDS</a> <a href="https://ngrperformance.com/product-categories/" target="_blank" style="text-decoration: none; margin-right: 30px; ">SHOP NGR</a> <a href="https://ngrperformance.com/blog/" target="_blank" style="text-decoration: none; ">NEWS</a>
+																<a href="https://ngrperformance.com/" target="_blank" style="text-decoration: none; margin-right: 30px; ">HOME</a> <a href="https://ngrperformance.com/my-account/" target="_blank" style="text-decoration: none; margin-right: 30px; ">REWARDS</a> <a href="https://ngrperformance.com/product-categories/" target="_blank" style="text-decoration: none; margin-right: 30px; ">SHOP NGR</a> <a href="https://ngrperformance.com/blog-sales/" target="_blank" style="text-decoration: none; ">NEWS</a>
 															</td>
 														</tr>
 													</tbody>
@@ -992,13 +992,13 @@
 													<table align="center" width="100%">
 														<tr>
 															<td align="center">
-																<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:50px;font-size:25px;">FOLLOW US</h2>
+																<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:25px;font-size:25px;">FOLLOW US</h2>
 															</td>
 														</tr>
 														<tr>
 															<td align="center">
 																<a href="https://www.instagram.com/ngrperformance/" style="text-decoration:none">
-																	<h2 style="color:black;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:50px;font-size:25px;">@NGRPERFORMANCE</h2>
+																	<h2 style="color:black;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;line-height:25px;font-size:25px;">@NGRPERFORMANCE</h2>
 																</a>
 															</td>
 														</tr>
@@ -1568,11 +1568,11 @@
 																							</tr>
 																							<tr>
 																								<td align="center">
-																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
+																									<h2 style="color:#C2AB32;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;font-size:25px;">
 																										FREE SHIPPING
 																									</h2>
 
-																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:25px;">
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:20px;">
 																										on orders over
 																										$99</h2>
 																								</td>
