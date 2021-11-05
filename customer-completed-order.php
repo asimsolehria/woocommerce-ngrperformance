@@ -1627,7 +1627,7 @@
 																										FREE SHIPPING
 																									</h2>
 
-																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:20px;">
+																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:10px;">
 																										on orders over
 																										$99</h2>
 																								</td>
@@ -1669,7 +1669,7 @@
 
 																			<td valign="top" class="mcnTextContent" style="padding-top:10; padding-right:18px; padding-bottom:0px; padding-left:18px;">
 
-																				<div style="text-align: center;font-size: 20px;">
+																				<div style="text-align: center;font-size: 10px;">
 																					<span style="color:#A9A9A9"><em>Copyright
 																							Ⓒ 2021 NGR performance, All
 																							rights reserved.</em><br>
