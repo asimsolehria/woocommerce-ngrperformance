@@ -1404,7 +1404,7 @@
 											<tr>
 												<td class="mobile-full align-center" height="186" align="center" style="font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-size: 14px; line-height:15px">
 													<a href="https://ngrperformance.com/product/ngr-oil-catch-can/" target="_blank">
-														<img src="https://i0.wp.com/ngrperformance.com/wp-content/uploads/2021/03/02-2.jpg?resize=600%2C600&ssl=1" border="0" align="center" valign="top" width="150" alt="Off-White" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
+														<img src="https://ngrperformance.com/wp-content/uploads/2021/02/oil_catch_can-1-600x600.jpg" border="0" align="center" valign="top" width="150" alt="Off-White" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
 													</a>
 													<p style="font-size:14px; line-height:18px; text-align: center; max-width: 160px; margin: auto;">
 														<a href="https://ngrperformance.com/product/ngr-oil-catch-can/" style="text-decoration:none; color:#222; font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-weight: bold; " target="_blank">
@@ -1414,7 +1414,7 @@
 												</td>
 												<td class="mobile-full align-center" height="186" align="center" style="font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-size: 14px; line-height:15px">
 													<a href="https://ngrperformance.com/product/ngr-fuel-filter-drag-edition/" target="_blank">
-														<img src="https://i0.wp.com/ngrperformance.com/wp-content/uploads/2021/02/98.jpg?resize=600%2C600&ssl=1" border="0" align="center" valign="top" width="150" alt="adidas YEEZY" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
+														<img src="https://ngrperformance.com/wp-content/uploads/2021/02/98-600x600.jpg" border="0" align="center" valign="top" width="150" alt="adidas YEEZY" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
 													</a>
 													<p style="font-size:14px; line-height:18px; text-align: center; max-width: 160px; margin: auto;">
 														<a href="https://ngrperformance.com/product/ngr-fuel-filter-drag-edition/" style="text-decoration:none; color:#222; font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-weight: bold; " target="_blank">
@@ -1425,7 +1425,7 @@
 												</td>
 												<td class="mobile-full align-center" height="186" align="center" style="font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-size: 14px; line-height:15px">
 													<a href="https://ngrperformance.com/product/ngr-turbo-filter-black/" target="_blank">
-														<img src="https://i2.wp.com/ngrperformance.com/wp-content/uploads/2021/02/228.jpg?resize=600%2C600&ssl=1" border="0" align="center" valign="top" width="150" alt="Rick Owens DRKSHDW" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
+														<img src="https://ngrperformance.com/wp-content/uploads/2021/02/228-600x600.jpg" border="0" align="center" valign="top" width="150" alt="Rick Owens DRKSHDW" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
 													</a>
 													<p style="font-size:14px; line-height:18px; text-align: center; max-width: 160px; margin: auto;">
 														<a href="https://ngrperformance.com/product/ngr-turbo-filter-black/" style="text-decoration:none; color:#222; font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-weight: bold; " target="_blank">
@@ -1452,9 +1452,10 @@
 
 										<table align="center" width="100%" class="mobile-half align-center padding-zero padbot25" cellpadding="0" cellspacing="0" border="0" style="display: inline-table; ">
 											<tr>
+											
 												<td class="mobile-full align-center" height="186" align="center" style="font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-size: 14px; line-height:15px">
 													<a href="https://ngrperformance.com/product/ngr-v-band-kit-aluminum-neochrome/" target="_blank">
-														<img src="https://i0.wp.com/ngrperformance.com/wp-content/uploads/2021/03/IMG_6722-2-scaled-1.jpg?resize=600%2C450&ssl=1" border="0" align="center" valign="top" width="130" alt="Heron Preston" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
+														<img src="https://ngrperformance.com/wp-content/uploads/2021/02/80-600x600.jpg" border="0" align="center" valign="top" width="150" alt="Off-White" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
 													</a>
 													<p style="font-size:14px; line-height:18px; text-align: center; max-width: 160px; margin: auto;">
 														<a href="https://ngrperformance.com/product/ngr-v-band-kit-aluminum-neochrome/" style="text-decoration:none; color:#222; font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-weight: bold; " target="_blank">
@@ -1464,7 +1465,7 @@
 												</td>
 												<td class="mobile-full align-center" height="186" align="center" style="font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-size: 14px; line-height:15px">
 													<a href="https://ngrperformance.com/product/ngr-turbo-filter-red/" target="_blank">
-														<img src="https://i2.wp.com/ngrperformance.com/wp-content/uploads/2021/03/IMG_1207-2-768x513-1.jpg?resize=600%2C401&ssl=1" border="0" align="center" valign="top" width="150" alt="Off-White" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
+														<img src="https://ngrperformance.com/wp-content/uploads/2021/02/2-1-600x600.jpg" border="0" align="center" valign="top" width="150" alt="Off-White" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
 													</a>
 													<p style="font-size:14px; line-height:18px; text-align: center; max-width: 160px; margin: auto;">
 														<a href="https://ngrperformance.com/product/ngr-turbo-filter-red/" style="text-decoration:none; color:#222; font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-weight: bold; " target="_blank">
@@ -1474,7 +1475,7 @@
 												</td>
 												<td class="mobile-full align-center" height="186" align="center" style="font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-size: 14px; line-height:15px">
 													<a href="https://ngrperformance.com/product/ngr-turbo-filter-drag-edition-blue/" target="_blank">
-														<img src="https://i1.wp.com/ngrperformance.com/wp-content/uploads/2021/03/IMG_1215-scaled-1.jpg?resize=600%2C410&ssl=1" border="0" align="center" valign="top" width="150" alt="Frédérique Constant" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
+														<img src="https://ngrperformance.com/wp-content/uploads/2021/02/IMG_1215-2-copy-600x600.jpg" border="0" align="center" valign="top" width="150" alt="Frédérique Constant" style="padding-bottom:20px; margin: auto; display: block; color: #000000; font-size: 9px;">
 													</a>
 													<p style="font-size:14px; line-height:18px; text-align: center; max-width: 160px; margin: auto;">
 														<a href="https://ngrperformance.com/product/ngr-turbo-filter-drag-edition-blue/" style="text-decoration:none; color:#222; font-family:'Farfetch-Basis', Helvetica Neue, sans-serif; font-weight: bold; " target="_blank">
@@ -1537,85 +1538,32 @@
 	<td align="center" valign="top">
 	<![endif]-->
 
-																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
+																								<table align="center" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
 
 																									<tbody>
 																										<tr>
 																											<td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:9px;">
 																												<a href="https://www.facebook.com/ngrperformance/" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-facebook-96.png" alt="Facebook" class="mcnFollowBlockIcon" width="48" style="width:48px; max-width:48px; display:block;"></a>
 																											</td>
-																										</tr>
-
-
-																									</tbody>
-																								</table>
-
-
-																								<!--[if mso]>
-		</td>
-		<![endif]-->
-
-																								<!--[if mso]>
-		<td align="center" valign="top">
-		<![endif]-->
-
-																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
-
-																									<tbody>
-																										<tr>
 																											<td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:9px;">
 																												<a href="https://www.instagram.com/ngrperformance/" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-instagram-96.png" alt="Instagram" class="mcnFollowBlockIcon" width="48" style="width:48px; max-width:48px; display:block;"></a>
 																											</td>
-																										</tr>
-
-
-																									</tbody>
-																								</table>
-
-
-																								<!--[if mso]>
-			</td>
-			<![endif]-->
-
-																								<!--[if mso]>
-			<td align="center" valign="top">
-			<![endif]-->
-
-																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
-
-																									<tbody>
-																										<tr>
-																											<td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:9px;">
-																												<a href="https://www.youtube.com/channel/UC2K5adJLxadfgMm9qhZutsA" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-youtube-96.png" alt="YouTube" class="mcnFollowBlockIcon" width="48" style="width:48px; max-width:48px; display:block;"></a>
-																											</td>
-																										</tr>
-
-
-																									</tbody>
-																								</table>
-
-
-																								<!--[if mso]>
-			</td>
-			<![endif]-->
-
-																								<!--[if mso]>
-			<td align="center" valign="top">
-			<![endif]-->
-
-																								<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnFollowStacked" style="display:inline;">
-
-																									<tbody>
-																										<tr>
 																											<td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:0; padding-bottom:9px;">
 																												<a href="https://twitter.com/ngrperformance" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-twitter-96.png" alt="Twitter" class="mcnFollowBlockIcon" width="48" style="width:48px; max-width:48px; display:block;"></a>
 																											</td>
+
+																											<td align="center" valign="top" class="mcnFollowIconContent" style="padding-right:10px; padding-bottom:9px;">
+																												<a href="https://www.youtube.com/channel/UC2K5adJLxadfgMm9qhZutsA" target="_blank"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/dark-youtube-96.png" alt="YouTube" class="mcnFollowBlockIcon" width="48" style="width:48px; max-width:48px; display:block;"></a>
+																											</td>
+																											
 																										</tr>
-
-
+																										
 
 																									</tbody>
 																								</table>
+
+
+																								
 																					<tbody>
 																						<table align="center" width="100%">
 																							<tr>
@@ -1627,9 +1575,9 @@
 																										FREE SHIPPING
 																									</h2>
 
-																									<h2 style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:10px;">
+																									<p style="color:gray;text-align:center;font-family: Lucida Console, Courier New, monospace;font-weight:800;;font-size:15px;">
 																										on orders over
-																										$99</h2>
+																										$99</p>
 																								</td>
 																							</tr>
 
@@ -1669,9 +1617,9 @@
 
 																			<td valign="top" class="mcnTextContent" style="padding-top:10; padding-right:18px; padding-bottom:0px; padding-left:18px;">
 
-																				<div style="text-align: center;font-size: 10px;">
+																				<div style="text-align: center;font-size: 15px;">
 																					<span style="color:#A9A9A9"><em>Copyright
-																							Ⓒ 2021 NGR performance, All
+																							Ⓒ 2021 NGR Performance, All
 																							rights reserved.</em><br>
 																					</span>
 																				</div>
